@@ -68,6 +68,7 @@ Following is the count of images present for each class of disease in decreasing
 
 
 
+
 ## Conclusions
 
->
+> After 30 Epochs, using CNN Model 4 (With L2 Regularization and Additional Dropout Layers), the training accuracy is 87% and validation accuracy is 82%. As the difference between them is withing a range of 5%, the Model 4 seems to be optimum.
