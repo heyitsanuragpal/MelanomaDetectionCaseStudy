@@ -1,4 +1,4 @@
-# Detection of Melanoma Skin Cancer using CNN
+![image](https://github.com/heyitsanuragpal/MelanomaDetectionCaseStudy/assets/151669975/0b49713d-1b53-4600-b746-512089af0c95)# Detection of Melanoma Skin Cancer using CNN
 > Developing a custom convolutional neural network in TensorFlow for a multiclass classification model for detecting Melanoma skin cancer.
 
 ## Table of Contents
@@ -54,18 +54,20 @@ Following is the count of images present for each class of disease in decreasing
 - Mounting the data on Google Drive and loading the data inside the Python notebook
 - Checking the count of images available in "Train" and "Test" dataset
 - Forming the Train and Test datasets
-- Vizualizing the data
-- Creating, Compiling, Training and Vizualizing CNN Model 1
+- Visualizing the data
+- Creating, Compiling, Training and Visualizing CNN Model 1
 - Applying data augmentation on the Training dataset
-- Creating, Compiling, Training and Vizualizing CNN Model 2 (With Data Augmentation & Dropout Layer)
+- Creating, Compiling, Training and Visualizing CNN Model 2 (With Data Augmentation & Dropout Layer)
 - Checking Class Distribution of our Training Dataset
 - To address this class imbalance, we used the Augmentor library to generate new samples artificially
-- Vizualising the distribution of augmented data after adding new images to the Training dataset
-- Creating, Compiling, Training and Vizualizing CNN Model 3 (With New Data from Augmentor)
-- Creating, Compiling, Training and Vizualizing CNN Model 4 (With L2 Regularization and Additional Dropout Layers)
+- Visualizing the distribution of augmented data after adding new images to the Training dataset
+- Creating, Compiling, Training and Visualizing CNN Model 3 (With New Data from Augmentor)
+- Creating, Compiling, Training and Visualizing CNN Model 4 (With L2 Regularization and Additional Dropout Layers)
 - Checking the Test accuracy using Model 4 (With L2 Regularization and Additional Dropout Layers) using Test dataset
 - Writing Conclusions
 
 
+
 ## Conclusions
 
+>
